@@ -1,4 +1,4 @@
-EXPLORATION TASK: File Search & Content Analysis
+File Search & Content Analysis
 
 cd ~/KaliLinuxProject
 
@@ -76,3 +76,4 @@ wc -w documentation/notes/weekly_meeting.txt
 # Display file size
 du -h documentation/notes/project_notes.txt
 du -sh ~/KaliLinuxProject
+
