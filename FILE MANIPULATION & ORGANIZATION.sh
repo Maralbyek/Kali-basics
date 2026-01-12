@@ -1,4 +1,4 @@
-# TASK 3: FILE MANIPULATION & ORGANIZATION
+FILE MANIPULATION & ORGANIZATION
 
 cd ~/KaliLinuxProject
 
@@ -61,4 +61,5 @@ rm -r source_code/configs_backup
 rm -r testing/unit_tests_backup
 
 # Verify changes
+
 ls -R ~/KaliLinuxProject
