@@ -1,5 +1,4 @@
-# TASK 4: PERMISSIONS & OWNERSHIP MANAGEMENT
-# ============================================================================
+PERMISSIONS & OWNERSHIP MANAGEMENT
 
 cd ~/KaliLinuxProject
 
@@ -63,4 +62,5 @@ ls -ld testing/integration_tests/
 
 # Verify all permissions using find command
 find ~/KaliLinuxProject/documentation/reports -type f -exec ls -l {} \;
+
 find ~/KaliLinuxProject/source_code/scripts -type f -exec ls -l {} \;
