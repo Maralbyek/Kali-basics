@@ -1,4 +1,4 @@
-# TASK 2: DIRECTORY NAVIGATION USING PATHS
+DIRECTORY NAVIGATION USING PATHS
 
 # Navigate to home directory
 cd ~
@@ -53,4 +53,5 @@ ls -l ~/KaliLinuxProject/source_code/scripts
 ls -R ~/KaliLinuxProject/data
 
 # List multiple directories at once
+
 ls -l source_code/configs resources/templates
