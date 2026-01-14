@@ -64,3 +64,10 @@ ls -ld testing/integration_tests/
 find ~/KaliLinuxProject/documentation/reports -type f -exec ls -l {} \;
 
 find ~/KaliLinuxProject/source_code/scripts -type f -exec ls -l {} \;
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+USED COMMANDS:                                                                                                                               - 
+1. ls -l, -ld                                                                                                                                -
+2. chmod 400, 644, 660, 700, 750, 755 #it depends on how the user wants the permissions to be which it will have different codes such as 770.-
+3. find -type, f, -exec                                                                                                                      -
+----------------------------------------------------------------------------------------------------------------------------------------------
