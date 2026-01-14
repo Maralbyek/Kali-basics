@@ -58,4 +58,17 @@ rm -rf ~/extraction_test
 
 # Display all created archives
 ls -lh *.tar *.tar.gz *.zip
+
 Content is user-generated and unverified.
+ --------------------
+USED COMMANDS:      -
+1.tar               -
+2.zip               -
+3.unzip             -
+4.ls -lh            -
+5.du -sh            -
+6.rm -rf            -
+7.tar -xzvf, -xvf   -
+8.tar -czvf         -
+9.tar -tzf          -
+---------------------
