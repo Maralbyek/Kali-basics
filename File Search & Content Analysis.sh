@@ -77,3 +77,14 @@ wc -w documentation/notes/weekly_meeting.txt
 du -h documentation/notes/project_notes.txt
 du -sh ~/KaliLinuxProject
 
+------------------------------------------------------
+USED COMMANDS:                                       -
+1.find                                               -
+2.echo                                               -
+3.grep                                               -
+4.cat                                                -
+5.tail (depends on what the user want specifically)  -
+6.file                                               -
+7.du -h, -sh                                         -
+8.wc -l, -sh                                         -
+------------------------------------------------------
