@@ -55,3 +55,10 @@ ls -R ~/KaliLinuxProject/data
 # List multiple directories at once
 
 ls -l source_code/configs resources/templates
+
+------------------
+USED COMMANDS:   -
+1.cd             -
+2.ls, -l, -R, -r -
+3.pwd            -
+------------------
