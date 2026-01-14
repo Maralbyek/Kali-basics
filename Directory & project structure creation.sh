@@ -49,3 +49,10 @@ touch testing/integration_tests/test_integration.sh
 # Verifying the structure
 tree ~/KaliLinuxProject
 ls -R ~/KaliLinuxProject
+----------------
+USED COMMANDS: -
+1.mkdir -p     -
+2.touch        -
+3.ls -R        -
+4.tree         -
+----------------
