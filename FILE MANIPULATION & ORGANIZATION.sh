@@ -63,3 +63,11 @@ rm -r testing/unit_tests_backup
 # Verify changes
 
 ls -R ~/KaliLinuxProject
+------------------------
+USED COMMAND OVERALL:  -
+1.cd                   -
+2.touch                - 
+3.mv                   -
+4.cp                   -
+5.rm                   -
+------------------------
